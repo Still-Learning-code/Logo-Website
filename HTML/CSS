@@ -1,0 +1,106 @@
+
+Skip to content
+All gists
+Back to GitHub
+@Still-Learning-code
+@Still-Learning-code
+Still-Learning-code/index.html
+Last active January 2, 2023 10:41
+
+    0
+
+Code
+Revisions 2
+Logo / website
+index.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name ="viewport" content="width = device-width, initial-scale=1">
+    <title>Logo/web site</title>
+     <style>
+       h2{
+         background-color: gold;
+       }
+       body {
+         font-family: Helvetica;
+         margin: 0;
+       }
+       .header {
+            padding: 20px;
+          font-size: 20px;
+         text-align: center;
+         background:#000000;
+         color:white;   
+       }
+       .content {
+         padding: 15px;
+         text-align: center;
+         font-size: 25px;
+       }          
+    </style>
+</head>
+      
+  <body>
+    <div class= "header">
+      <h1>Clean'd Today</h1>
+      <p>clean'd_@somemail.com</p>
+      <p>(123) 321-4657</p>
+    </div>
+    <div class= "content">
+      <h2>Flat rate any Job !</h2>
+   
+      <h3> Residential, Commerical</h3>
+      
+      <h4>Contact Information<h4>
+        <div class = "form-input">
+          <input type = "text" placeholder= "Enter Name">
+  
+          <input type = "text" placeholder = "Enter Phone number">
+         
+          <button> Submit</button
+        </div>
+      
+        
+</body>
+  
+</html>
+logo-website.markdown
+Logo / website
+
+A Pen by Mike McKenna on CodePen.
+
+License.
+style.css
+.form-input{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.form-input>input{
+  width:200px;
+  height: 35px;
+  outline:none ;
+  border: none;
+  border-radius:40px;
+  text-align: center;
+  box-shadow: 0 0 10px green;
+  cursor: pointer;
+}
+button {
+  width: 200px;
+  height: 40px;
+  border-radius: 40px;
+  border: none;
+  box-shadow: 0 0 10px green;
+  cursor: pointer;
+}
+
+@Still-Learning-code
+Author
+Still-Learning-code commented Oct 24, 2022
+
+Project for Upwork. Logo/website on Codepen
+@Still-Learning-code
+

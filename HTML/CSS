@@ -1,16 +1,4 @@
 
-Skip to content
-All gists
-Back to GitHub
-@Still-Learning-code
-@Still-Learning-code
-Still-Learning-code/index.html
-Last active January 2, 2023 10:41
-
-    0
-
-Code
-Revisions 2
 Logo / website
 index.html
 <!DOCTYPE html>
@@ -66,12 +54,7 @@ index.html
 </body>
   
 </html>
-logo-website.markdown
-Logo / website
 
-A Pen by Mike McKenna on CodePen.
-
-License.
 style.css
 .form-input{
   display: flex;

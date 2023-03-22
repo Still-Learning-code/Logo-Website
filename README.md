@@ -1,4 +1,0 @@
-
-# Logo-Website
-Demonstration Project
-
